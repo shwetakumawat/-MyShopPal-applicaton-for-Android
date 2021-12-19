@@ -1,0 +1,1 @@
+# -MyShopPal-applicaton-for-Android
